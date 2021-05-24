@@ -1,3 +1,4 @@
 rootProject.name = 'note'
 include 'javafoundation'
+include 'worknote'
 
